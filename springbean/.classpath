@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/resource"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-beans"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-jcl"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-aop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-context"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-expression"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-instrument"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-aspects"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-build-src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-context-indexer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-context-support"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-framework-bom"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-jdbc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-jms"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-messaging"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-orm"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-oxm"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-tx"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-web"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-webflux"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-webmvc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/spring-websocket"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
